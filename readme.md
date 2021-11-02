@@ -1,6 +1,6 @@
 ## This is a UIAPP of the Juventus Men‘s Team 2020/2021.
 
-** Images and data of players are from https://www.juventus.com/
+* Images and data of players are from https://www.juventus.com/ *
 
 In this APP, there are four screens. Brief details are below: 
 
